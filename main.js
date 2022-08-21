@@ -1,0 +1,1 @@
+console.log("HELLOFROM %cJS file", "color:red; font-size: 40px",)
